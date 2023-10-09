@@ -1,0 +1,43 @@
+/* login.component.css */
+
+/* Estilos para el encabezado "Login" */
+.login-header {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px; /* Añade espacio entre el título y el formulario */
+}
+
+/* Resto de estilos (ya existentes) para el contenedor y otros elementos */
+.login-container {
+  max-width: 400px;
+  margin: 100px auto 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* Estilos para los campos de entrada y botones */
+.login-container input,
+.login-container button {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* Estilos para el botón de inicio de sesión */
+.login-container button {
+  padding: 10px;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Estilos para el botón de inicio de sesión cuando se coloca encima */
+.login-container button:hover {
+  background-color: #0056b3;
+}
+.login-container label {
+  margin-bottom: 20px; /* Puedes ajustar este valor según tu preferencia */
+}

@@ -1,0 +1,13 @@
+/* src/styles.css */
+
+/* Estilos para el cuerpo del login */
+body.login {
+  background-color: aqua;
+}
+
+/* Estilos para el encabezado */
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
